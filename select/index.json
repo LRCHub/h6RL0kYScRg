@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "イカの魂無駄にはしない～小島食品工場株式会社社歌～",
+  "base_artist": "小島食品工場スタッフ",
+  "createdAt": "2026-01-03T04:29:26.167010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イカの魂無駄にはしない～小島食品工場株式会社社歌～",
+      "artist": "小島食品工場スタッフ",
+      "has_synced": false,
+      "path": "select/01_イカの魂無駄にはしない~小島食品工場株式会社社歌~_小島食品工場スタッフ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イカの魂無駄にはしない〜小島食品工場株式会社社歌〜",
+      "artist": "小島食品工場スタッフ",
+      "has_synced": true,
+      "path": "select/02_イカの魂無駄にはしない〜小島食品工場株式会社社歌〜_小島食品工場スタッフ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イカの魂無駄にはしない～小島食品工場株式会社社歌～",
+      "artist": "小島食品工場スタッフ",
+      "has_synced": false,
+      "path": "select/pl_01_イカの魂無駄にはしない~小島食品工場株式会社社歌~_小島食品工場スタッフ.txt"
+    }
+  ]
+}
